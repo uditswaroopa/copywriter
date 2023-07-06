@@ -1,5 +1,5 @@
 # copywriter
-#### Comprehensive copywriting library with standard phrases for software development projects
+#### Enhance your software development projects with the powerful Dart package, Copywriting. Designed to streamline the copywriting process, this comprehensive toolkit offers a wide array of standardized and high-quality copy for your software. From engaging interface text to persuasive call-to-action prompts, Copywriting empowers developers to create seamless user experiences that captivate and convert. Elevate your software's impact with Copywriting's versatile collection of essential content elements.
 
 ## Features
 - Standard Copywritings across 38+ categories 
@@ -11,11 +11,11 @@
 In your pubspec.yaml
 ```yaml
 dependencies:
-  copywriter: ^0.0.1
+  copywriting: ^0.0.1
 ```
 
 ```dart
-import 'package:copywriter/copywriter.dart' as copywriter;
+import 'package:copywriting/copywriting.dart' as copywriter;
 ```
 ## Usage
 
