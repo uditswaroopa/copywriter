@@ -1,5 +1,5 @@
 # copywriter
-### Comprehensive copywriting library with standard phrases for software development projects
+#### Comprehensive copywriting library with standard phrases for software development projects
 
 ## Features
 - Standard Copywritings across 38+ categories 
