@@ -1,4 +1,4 @@
-# copywriter
+# copywriting
 #### Enhance your software development projects with the powerful Dart package, Copywriting. Designed to streamline the copywriting process, this comprehensive toolkit offers a wide array of standardized and high-quality copy for your software. From engaging interface text to persuasive call-to-action prompts, Copywriting empowers developers to create seamless user experiences that captivate and convert. Elevate your software's impact with Copywriting's versatile collection of essential content elements.
 
 ## Features
