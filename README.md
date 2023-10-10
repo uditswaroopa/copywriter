@@ -4,7 +4,7 @@
 ## Features
 - Standard Copywritings across 38+ categories 
 - Customise Copwriting based on your requirements 
-- Multiple Language Support (coming soon)
+- Added Support for Multiple Language Support
 
 
 ## Installing:
